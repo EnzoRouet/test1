@@ -35,7 +35,7 @@ header::before {
   height: 100%;
 
   /* 1. Met ton image de fond 3D ici */
-  background-image: url(./img/Bg\ Header.png); /* MET LE BON CHEMIN */
+  background-image: url(./img/Bg_Header.png); /* MET LE BON CHEMIN */
   background-size: cover;
   background-position: center;
 
